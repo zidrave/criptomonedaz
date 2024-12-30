@@ -4,6 +4,8 @@
 
 Este repositorio contiene un script PHP que le permite consultar y mostrar en tiempo real los precios de las principales criptomonedas en *dólares estadounidenses (USD)* y *soles peruanos (PEN)*.
 
+Monedas primarias soportadas WorldCoin WLD, Bitcoin BTC y Ethereum ETH. (Se puede agregar mas editando el codigo)
+
 ---
 
 **Características:**
@@ -41,7 +43,7 @@ Este repositorio contiene un script PHP que le permite consultar y mostrar en ti
 **Uso:**
 
 1.  Clonee este repositorio.
-2.  Ejecute el script `index.php` en su servidor web.
+2.  Ejecute el script `criptomonedaz.php` en su servidor web.
 3.  La página web mostrará los precios actualizados de las criptomonedas en USD y PEN.
 
 ---
